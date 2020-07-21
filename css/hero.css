@@ -1,0 +1,16 @@
+body{font-family: 'Coming Soon', cursive;
+padding-top:10px; padding-bottom: 10px;
+padding-left: 10px;
+padding-right: 10px;}
+header{ background-color: cornflowerblue; 
+text-align: center;}
+header img{ border-radius: 300px;
+width: 50px; }
+main{margin: 0px auto;
+max-width: 800px;}
+
+footer{background-color: tomato; text-align: center; padding: 50px;
+}
+footer p{margin: 0;}
+p.descrip{font-style: italic;
+margin-top: 0px;}
